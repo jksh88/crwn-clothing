@@ -1,5 +1,5 @@
-import React from "react";
-import "./item.styles.css";
+import React from 'react';
+import './item.styles.scss';
 
 const Item = ({ id, name, imageUrl, price }) => (
   <div className="item">
